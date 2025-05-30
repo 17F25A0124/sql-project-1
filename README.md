@@ -219,6 +219,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/revanth-kumar-gummaraju)
+- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/revanth-kumar-gummaraju](https://www.linkedin.com/in/revanth-kumar-gummaraju-348b97255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 Thank you for your support, and I look forward to connecting with you!
